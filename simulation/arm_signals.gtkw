@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.99 (w)1999-2019 BSI
+[*] Sat Aug 08 05:00:06 2026
+[*]
+[dumpfile] "C:\Users\Hameed Computer\Desktop\Verilog And Digital Logic\System Verilog\Single Cycle ARM processor\processor.vcd"
+[dumpfile_mtime] "Sat Aug 08 04:45:57 2026"
+[dumpfile_size] 15812
+[savefile] "C:\Users\Hameed Computer\Desktop\Verilog And Digital Logic\System Verilog\Single Cycle ARM processor\arm_signals.gtkw"
+[timestart] 29999
+[size] 1000 600
+[pos] 999 -115
+*0.000000 30000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[treeopen] testbench.dut.
+[treeopen] testbench.dut.processor.
+[treeopen] testbench.dut.processor.c.
+[sst_width] 211
+[signals_width] 228
+[sst_expanded] 1
+[sst_vpaned_height] 154
+@28
+testbench.dut.processor.clk
+testbench.dut.processor.reset
+@22
+testbench.dut.processor.PC[31:0]
+testbench.dut.processor.Instr[31:0]
+@28
+testbench.dut.processor.RegWrite
+testbench.dut.processor.MemWrite
+@29
+testbench.dut.processor.PCSrc
+@28
+testbench.dut.processor.ALUControl[1:0]
+@22
+testbench.dut.processor.ALUResult[31:0]
+testbench.dut.processor.ALUFlags[3:0]
+@24
+testbench.dut.processor.WriteData[31:0]
+@22
+testbench.dut.processor.dp.SrcA[31:0]
+testbench.dut.processor.dp.SrcB[31:0]
+testbench.dut.processor.dp.Result[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
